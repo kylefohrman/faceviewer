@@ -22,7 +22,7 @@ Added key interactions for easier navigation:
 ![Demo](https://user-images.githubusercontent.com/42983161/116212557-f1a05a80-a712-11eb-91e8-7fffe46ece09.gif)
 
 Please note that the objloader and vboindexer
-must be moved placed in the common file before running.
+must be placed in the common file before running.
 
 
 -Fohrman, Kyle
