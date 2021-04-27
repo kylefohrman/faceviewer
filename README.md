@@ -20,7 +20,7 @@ Added key interactions for easier navigation:
 	-u to show/hide face texture
 
 Please note that the objloader and vboindexer
-must be moved placed in the common file before running
+must be moved placed in the common file before running. View the .mp4 for a demonstration of the code.
 
 
 -Fohrman, Kyle
