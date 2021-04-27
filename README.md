@@ -19,7 +19,7 @@ Added key interactions for easier navigation:
 	
 	-u to show/hide face texture
 
-https://user-images.githubusercontent.com/42983161/116212557-f1a05a80-a712-11eb-91e8-7fffe46ece09.gif
+![Demo](https://user-images.githubusercontent.com/42983161/116212557-f1a05a80-a712-11eb-91e8-7fffe46ece09.gif)
 
 Please note that the objloader and vboindexer
 must be moved placed in the common file before running.
