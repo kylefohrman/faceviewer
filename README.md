@@ -1,5 +1,5 @@
 # faceviewer
-Textured 3D face model with keyboard navigation, created with OpenGL
+Textured 3D face model with keyboard navigation, created with OpenGL in spring of 2021
 
 Added key interactions for easier navigation:
 
